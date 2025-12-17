@@ -1,0 +1,14 @@
+# Ignore environment variables in ANY folder
+.env
+**/.env
+
+# Ignore databases
+*.db
+
+# Ignore Python artifacts
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments (both standard names)
+venv/
+.venv/
